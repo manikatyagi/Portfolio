@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Weather App ",
+      "imageSrc": "projects/project.png",
+      "description": "Created a dynamic Weather App offering detailed current conditions and a 7-day forecast.",
+      "skills": ["React", "HTML", "CSS","API"],
+      "demo": "https://manika-weather-app.netlify.app/",
+      "source": "https://github.com/manikatyagi/weather-app"
+    },
+    {
+      "title": "Manika Meal Nation",
+      "imageSrc": "projects/project.png",
+      "description": "Created a dynamic, responsive website with adaptive design, utilizing JavaScript.",
+      "skills": ["HTML", "CSS", "JAVASCRIPT"],
+      "demo": "https://manikatyagi.github.io/Manika-Meal-Nation/",
+      "source": "https://github.com/manikatyagi/Manika-Meal-Nation"
+    },
+    {
+      "title": "GYM Website",
+      "imageSrc": "projects/project.png",
+      "description": "This gym website incorporates form validation using JS for enhanced functionality.",
+      "skills": ["HTML", "CSS", "JAVASCRIPT"],
+      "demo": "https://manikatyagi.github.io/gymwebsite/",
+      "source": "https://github.com/manikatyagi/gymwebsite"
+    }
+  ]

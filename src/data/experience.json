@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Software Developer Engineer Intern ",
+      "organisation": "Expedia",
+      "startDate": "May, 2023",
+      "endDate": "July, 2023",
+      "experiences": ["Worked on  Company’s plugin", "Added new plugin features, enhancing both user interface and functionality."],
+      "imageSrc": "experience/expedia.png"
+    },
+    {
+      "role": "Web Developer Intern",
+      "organisation": "InsideFPV Ventures Private Limited",
+      "startDate": "jun, 2022",
+      "endDate": "Aug, 2022",
+      "experiences": ["Collaborated in developing the InsideFPV website using WordPress"],
+      "imageSrc": "experience/insidefpv.png"
+    },
+    {
+      "role": "Publicity Head",
+      "organisation": "HEARTS-CLUB-VIT ",
+      "startDate": "jan, 2022",
+      "endDate": "jan, 2023",
+      "experiences": [
+        "Managed social media accounts for HEARTS.",
+        "Responsible for organising engaging events", "increasing online visibility of club"
+      ],
+      "imageSrc": "experience/hearts.png"
+    }
+  ]

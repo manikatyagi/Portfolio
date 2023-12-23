@@ -1,0 +1,26 @@
+[
+    {
+      "Degree": "Bachelor of Technology in Computer Science Engineering ",
+      "Institute": "Vellore Institute of Technology, Vellore",
+      "startDate": "Sep, 2020",
+      "endDate": "July, 2024",
+      "description": ["Currently, I'm pursuing my B.tech. in Computer Science from Vellore Institute of Technology, Vellore.", "My overall CGPA is 9.09."],
+      "imageSrc": "education/vitlogo.png"
+    },
+    {
+        "Degree": "Senior Secondary ",
+        "Institute": "Ahlcon International School, Delhi , CBSE",
+        "startDate": "April, 2019",
+        "endDate": "April, 2020",
+        "description": ["I completed my 12th grade at Ahlcon International School, Delhi, affiliated with CBSE, specializing in the PCM (Physics, Chemistry, Mathematics) stream.", "I scored 93.2% in my 12th-grade examinations."],
+        "imageSrc": "education/school1.png"
+    },
+    {
+      "Degree": "Secondary",
+      "Institute": "Presidium School, Indirapuram ,CBSE ",
+      "startDate": "April, 2017",
+      "endDate": "April, 2018",
+      "description": ["I completed my 10th grade at Presidium School, Indirapuram, under the CBSE board, securing a notable 90.2%."],
+      "imageSrc": "education/school2.png"
+    }
+  ]
