@@ -2,14 +2,12 @@
 
 
 .container {
-    color: var(--color-text);
     margin-top: 79px;
     margin-left: 10%;
     margin-right: 10%;
   }
   
-  .title {
-    color: var(--color-text);
+  .title {    
     font-size: 30px;
     font-weight: 700;
     letter-spacing: 1.75px;
@@ -38,7 +36,7 @@
   }
   
   .skillImgContainer {
-    background-color: var(--color-secondary);
+      border: 3px solid black;
     border-radius: 100%;
     display: flex;
     align-items: center;
@@ -65,18 +63,18 @@
   }
   
   .expItem {
+    border: 3px solid black;
     display: flex;
     flex-direction: row;
     align-items: center;
     gap: 17px;
-    background: #19376d;
-    background: linear-gradient(90deg, #19376d 0%, rgba(25, 55, 109, 0) 100%);
     border-radius: 10px;
     padding: 24px;
   }
   
   .expItem img {
     width: 75px;
+    margin-right: 10px;
   }
   
   .expItemDetails {
