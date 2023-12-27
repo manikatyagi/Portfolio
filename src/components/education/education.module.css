@@ -69,5 +69,7 @@
     .education {
       width: 95%;
     }
+    .eduItem{
+      flex-direction: column;}
   }
   
